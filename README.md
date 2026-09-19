@@ -10,6 +10,8 @@ The project uses satellite images along with corresponding color-coded ground-tr
 
 ## Dataset
 
+https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
+
 The dataset is organized into 8 tiles, with 9 image-mask pairs per tile, giving a total of 72 original image-mask pairs.
 
 The segmentation masks contain six different classes represented using RGB colors.
